@@ -8403,31 +8403,23 @@ Licence: Redistributable. See LICENSE.amlogic for details
 
 Driver: powervr - Imagination Technologies PowerVR graphics driver
 
-File: powervr/rogue_33.15.11.3_v1.fw
-Version: 1.0.OS@6503725
-
 File: powervr/rogue_4.40.2.51_v1.fw
 File: powervr/rogue_4.45.2.58_v1.fw
 File: powervr/rogue_4.46.6.62_v1.fw
-File: powervr/rogue_36.29.52.182_v1.fw
-File: powervr/rogue_36.50.54.182_v1.fw
-File: powervr/rogue_36.52.104.182_v1.fw
-Version: 1.0.OS@6734358
-
-File: powervr/rogue_36.53.104.796_v1.fw
-File: powervr/rogue_36.56.104.183_v1.fw
-Version: 1.0.OS@6852738
-
 File: powervr/rogue_5.9.1.46_v1.fw
 File: powervr/rogue_15.5.1.64_v1.fw
 File: powervr/rogue_22.67.54.30_v1.fw
 File: powervr/rogue_22.68.54.30_v1.fw
 File: powervr/rogue_22.87.104.18_v1.fw
 File: powervr/rogue_22.102.54.38_v1.fw
-Version: 1.0.OS@6889268
-
+File: powervr/rogue_33.15.11.3_v1.fw
 File: powervr/rogue_36.28.21.182_v1.fw
-Version: 1.0.OS@6939661
+File: powervr/rogue_36.29.52.182_v1.fw
+File: powervr/rogue_36.50.54.182_v1.fw
+File: powervr/rogue_36.52.104.182_v1.fw
+File: powervr/rogue_36.53.104.796_v1.fw
+File: powervr/rogue_36.56.104.183_v1.fw
+Version: 1.1.OS@6976702
 
 License: Redistributable. See LICENSE.powervr for details
 
